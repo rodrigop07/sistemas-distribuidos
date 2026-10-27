@@ -1,5 +1,3 @@
-# rpyc_server.py
-
 import rpyc
 from rpyc.utils.server import ThreadedServer
 from datetime import datetime
